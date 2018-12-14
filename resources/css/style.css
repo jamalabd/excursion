@@ -1,0 +1,18 @@
+h1 {
+  font-family: Verdana;
+  font-size: 50px;
+  color: white;
+}
+
+.discover{
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
