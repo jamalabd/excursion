@@ -4,7 +4,7 @@ h1 {
   color: white;
 }
 
-.discover{
+.discover,.phone{
   text-align: center;
 }
 
@@ -19,4 +19,27 @@ a {
 
 .video{
   text-align: center;
+}
+
+h2{
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+}
+
+p{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.travel {
+  text-align: center;
+}
+
+h3{
+  text-align: right;
+  color: grey;
+  font-family: Verdana;
 }
